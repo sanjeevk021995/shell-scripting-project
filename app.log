@@ -1,0 +1,10 @@
+2026-03-29 10:00:01 INFO Application started
+2026-03-29 10:00:05 INFO User login successful
+2026-03-29 10:01:10 ERROR Database connection failed
+2026-03-29 10:01:12 WARN Retrying database connection
+2026-03-29 10:01:15 ERROR Database connection failed
+2026-03-29 10:02:00 INFO Request processed
+2026-03-29 10:02:10 ERROR Timeout while calling API
+2026-03-29 10:03:00 WARN Slow response detected
+2026-03-29 10:03:30 INFO Request completed
+2026-03-29 10:04:00 ERROR Database connection failed
